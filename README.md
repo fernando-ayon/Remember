@@ -1,1 +1,1 @@
-Synchronised calendar - create events with your friends checking their availability beforehand !
+Calendario sincronizado - crea eventos con tus amigos cuando estén disponibles !

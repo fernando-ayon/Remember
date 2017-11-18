@@ -1,0 +1,1 @@
+Synchronised calendar - create events with your friends checking their availability beforehand !
